@@ -1,6 +1,6 @@
 {
   "name": "ngx-order-pipe",
-  "version": "2.2.0",
+  "version": "2.2.0b",
   "description": "Angular order pipe, order collection by a field",
   "scripts": {
     "ng": "ng",
@@ -16,7 +16,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/VadimDez/ngx-order-pipe.git"
+    "url": "git+https://github.com/mkobar/ngx-order-pipe.git"
   },
   "keywords": [
     "angular",
